@@ -1,20 +1,57 @@
-Android Open Source Projects
+Android Open Source Projects [https://codekk.com](https://p.codekk.com/) for more
 ====================
 
 Welcome to recommend good android open source projects, you can [Commit](https://github.com/Trinea/android-open-project/wiki/Standard-of-adding-and-editing-content "Standard of adding and editing content") directly or tell me at [Colloct Page](https://github.com/Trinea/android-open-project/issues/1). Welcome `Star` and `Fork`  
 
-Twitter：[trinea_cn](https://twitter.com/trinea_cn)&nbsp;&nbsp;&nbsp;&nbsp;HomePage: [www.trinea.cn](http://www.trinea.cn/)&nbsp;&nbsp;&nbsp;&nbsp;Email：[trinea.cn@gmail.com](mailto:trinea.cn@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;QQ：[717763774](http://wpa.qq.com/msgrd?v=3&uin=717763774&site=qq&menu=yes)  
+ 
+### Dev Tools App
+The Dev Tools App is a powerful android development tool that can help you improve efficiency greatly, It can be used to view the latest open source projects, view activity history, view manifest, decompile, color picker, extract apk or so, view app info, open or close the options in the developer options quickly, and more.  
+  
+You can download it from **[DevTools@Google Play](https://play.google.com/store/apps/details?id=cn.trinea.android.developertools)**.  
+![](https://lh3.googleusercontent.com/ERb20Y50r3u_tZMMlqpH5cnS_MC_n366WoKvEjJyFfHz6d-EwvhaEUf7ZKAgRajboTWR=w720-h440-rw)  
+
+
+Twitter：[trinea_cn](https://twitter.com/trinea_cn)&nbsp;&nbsp;&nbsp;&nbsp;HomePage: [codekk.com](https://codekk.com/)&nbsp;&nbsp;&nbsp;&nbsp;Email：[trinea.cn@gmail.com](mailto:trinea.cn@gmail.com)  
 Share：<a href="https://twitter.com/intent/tweet?text=Android Open Source Projects include Personalized Views, Common Util Libs, Excellent projects and so on   %40trinea_cn+https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&pic=" target="_blank" title="Share on twitter" style="width:100%"><img src="http://farm4.staticflickr.com/3764/13104038813_03933d4394_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&t=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&pic" target="_blank" title="Share on facebook" style="width:100%"><img src="http://farm4.staticflickr.com/3801/13104038583_b03d5cafac_o.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://service.weibo.com/share/share.php?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=1657413438&searchPic=true" target="_blank" title="Shared on weibo" style="width:100%"><img src="http://farm8.staticflickr.com/7342/13103239365_e5cd37fbac_o.png" title="Shared on weibo"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&desc=&summary=&site=www.trinea.cn" target="_blank" title="Share on qzone" style="width:100%"><img src="http://farm8.staticflickr.com/7418/13103935825_209bd521f0_o.jpg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://share.v.t.qq.com/index.php?c=share&a=index&url=https%3A%2F%2Fgithub.com%2FTrinea%2Fandroid-open-project&title=Android%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E5%88%86%E7%B1%BB%E6%B1%87%E6%80%BB%EF%BC%8C%E6%B1%87%E9%9B%86200%E5%A4%9A%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%8C%E5%8C%85%E6%8B%AC%E4%B8%AA%E6%80%A7%E5%8C%96%E6%8E%A7%E4%BB%B6%E3%80%81%E5%B7%A5%E5%85%B7%E5%BA%93%E3%80%81%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BC%80%E5%8F%91%E5%8F%8A%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7%E3%80%81%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%9B%A2%E4%BD%93%40Trinea+&appkey=801404464" target="_blank" title="Shared on tecent weibo" style="width:100%"><img src="http://farm8.staticflickr.com/7452/13104204564_f867971a13_o.png"/></a>
 ### Include：  
->[1. Personalized Views](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-part-personalized-views)  
-*&nbsp;&nbsp;include [ListView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-listview), [ActionBar](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-actionbar), [Menu](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-menu), [ViewPager](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-viewpager-gallery), [Gallery](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-gridview), [ImageView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#sixth-imageview), [ProgressBar](https://github.com/Trinea/android-open-project/tree/master/English%20Version#seventh-progressbar), [TextView](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eighth-textview),[ScrollView](), [TimeView](), [TipView](), [FlipView](), [ColorPickView](), [GraphView](), [UI Style](),  [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#ninth-others)*  
-[2. Common Util Libs](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-part-common-util-libs)  
-*&nbsp;&nbsp;include [Dependency Injection](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-dependency-injection), [ImageCache](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-image-cache), [Network](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-network), [Database ORM](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-database-orm), [Android common lib](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-android-common-lib), [Compatible low version](https://github.com/Trinea/android-open-project/tree/master/English%20Version#sixth-android-compatible-low-version), [Multimedia](https://github.com/Trinea/android-open-project/tree/master/English%20Version#seventh-multimedia), [Event Bus](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eighth-event-bus), [Sensor](https://github.com/Trinea/android-open-project/tree/master/English%20Version#ninth-sensor), [Security](https://github.com/Trinea/android-open-project/tree/master/English%20Version#tenth-security), [Plug-in](), [File](), [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#eleventh-others)*  
-[3. Excellent projects](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-part-excellent-projects)  
+>[1. Personalized Views](#1-personalized-views )  
+*&nbsp;&nbsp;
+include [ListView](#1-listview),
+[ActionBar](#2-actionbar),
+[Menu](#3-menu),
+[ViewPager](#4-viewpager-gallery),
+[Gallery](#5-gridview),
+[ImageView](#6-imageview),
+[ProgressBar](#7-progressbar),
+[TextView](#8-textview),
+ScrollView, 
+TimeView, 
+TipView, 
+FlipView, 
+ColorPickView, 
+GraphView,
+UI Style, 
+[Others](#9-others)*  
+[2. Common Util Libs](#2-common-util-libs)  
+*&nbsp;&nbsp;include [Dependency Injection](#1-dependency-injection),
+[ImageCache](#2-image-cache),
+[Network](#3-network),
+[Database ORM](#4-database),
+[Android common lib](#5-android-common-lib),
+[Compatible low version](#6-android-compatible-low-version),
+[Multimedia](#7-multimedia),
+[Event Bus](#8-event-bus),
+[Sensor](#9-sensor),
+[Security](#10-security),
+[Maps](#11-maps),
+Plug-in,
+File,
+[Others](#12-others)*  
+[3. Excellent projects](#3-excellent-projects)  
 *&nbsp;&nbsp;more interesting android project*  
-[4. Development and testing tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#forth-part-development-and-testing-tools)  
+[4. Development and testing tools](#4-development-and-testing-tools)  
 *&nbsp;&nbsp;include [Development productivity tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-development-productivity-tools), [Develop self-test related](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-develop-self-test-related), [Testing tools](https://github.com/Trinea/android-open-project/tree/master/English%20Version#third-testing-tools), [Development and build environment](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fourth-development-and-build-environment), [Others](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-others)*  
-[5. Outstanding individuals and groups](https://github.com/Trinea/android-open-project/tree/master/English%20Version#fifth-part-outstanding-individuals-and-groups)  
+[5. Outstanding individuals and groups](#4-outstanding-individuals-and-groups)  
 *&nbsp;&nbsp;Willing to share and have some very good open source project [Individual](https://github.com/Trinea/android-open-project/tree/master/English%20Version#first-individual) and [Group](https://github.com/Trinea/android-open-project/tree/master/English%20Version#second-group)，include JakeWharton, Chris Banes, Koushik Dutta and so on*
   
 *Thank [likebamoo](https://github.com/likebamboo)  [vmlinz](https://github.com/vmlinz)  [xalexchen](https://github.com/xalexchen)  [youxiachai](https://github.com/youxiachai) [stormzhang](https://github.com/stormzhang)*  
@@ -51,7 +88,7 @@ Demo Apk: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master
 Pull to refresh and load more when on bottom listView for android  
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-Document: http://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
+Document: https://www.trinea.cn/android/dropdown-to-refresh-and-bottom-load-more-listview/  
    
 1. DragSortListView  
 Android ListView with drag and drop reordering.   
@@ -297,7 +334,7 @@ Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/touch-gallery-dem
 Android Auto scroll ViewPager or ViewPager in ViewPager  
 Project Address: https://github.com/Trinea/android-auto-scroll-view-pager  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-Document: http://www.trinea.cn/android/auto-scroll-view-pager/  
+Document: https://www.trinea.cn/android/auto-scroll-view-pager/  
 
 1. Salvage view  
 Generic view recycler and ViewPager PagerAdapter implementation.  
@@ -409,6 +446,12 @@ You can customize the width and height of item,and the count of item each line,Y
 Project Address: [DraggableGridView](https://github.com/andyken/DraggableGridView)  
 Renderings:   
 ![Renderings](https://github.com/andyken/DraggableGridView/blob/master/sample/sample.gif)
+
+1. DividedDraggableView
+Draggable grid view with divided line.
+Project Address: https://github.com/andyken/DividedDraggableView
+Renderings:
+![Renderings](https://github.com/andyken/DividedDraggableView/blob/master/app/sample.gif)
 
 1. StickyGridHeaders  
 StickyGridHeaders is an Android library that provides a GridView that shows items in sections with headers. By default the section headers stick to the top like the People app in Android 4.x but this can be turned off.  
@@ -627,6 +670,12 @@ Renderings:
 ![Renderings](https://github.com/andyken/MoneyTextView/blob/master/sample/sample1.gif)  
 
 #### 9. Others  
+1. youtube-play-icon   
+Material style morphing play-pause icon   
+Project Address: https://github.com/alxrm/youtube-play-icon   
+Renderings:   
+![Renderings](https://raw.githubusercontent.com/alxrm/youtube-play-icon/master/art/play.gif)  
+
 1. achartengine  
 AChartEngine is a charting library for Android applications. It currently supports the following chart types: line chart, area chart, scatter chart, time chart, bar chart, pie chart, bubble chart, doughnut chart, range (high-low) bar chart, dial chart / gauge, combined (any combination of line, cubic line, scatter, bar, range bar, bubble) chart, cubic line chart and so on.  
 Project Address: https://code.google.com/p/achartengine/  
@@ -761,7 +810,7 @@ Demo Apk: https://play.google.com/store/apps/details?id=net.sebastianopoggi.samp
 Renderings: ![Renderings](https://lh6.ggpht.com/U070b6Lh6cVsVwx4jN-5nq0xqiB1PBzrYABPeJIEe2hZQ5UWOxc-FDUG77wADelToHA=h310-rw)  
 
 1. GlowPadView  
-GlowPadView for Android is a great library to implement Google's lockscreen and new alarmclock style.  
+GlowPadView for Android is a great library to implement Googles lockscreen and new alarmclock style.  
 Project Address: https://github.com/nadavfima/GlowPadView  
 Renderings: https://raw.github.com/nadavfima/GlowPadView/master/example.png  
    
@@ -854,6 +903,27 @@ Project Address: https://github.com/TheFinestArtist/YouTubePlayerActivity
 Sample App: https://play.google.com/store/apps/details?id=com.thefinestartist.ytpa.sample  
 Renderings: ![Renderings](https://github.com/thefinestartist/YouTubePlayerActivity/blob/master/art/preview.gif)
 
+1. TristateToggleButton
+Customizable tri-state toggle button (with three states, three state toggle) for Android
+Project Address: https://github.com/BeppiMenozzi/TriStateToggleButton  
+
+1. Knob
+Fully customizable rotating knob selector with discrete values for Android. Replaces radio buttons, integer value inputs and ViewPager indicators.
+Project Address: https://github.com/BeppiMenozzi/Knob
+
+1. Spotlight  
+Android Library that lights items for tutorials or walk-throughs etc...
+Project Address: https://github.com/TakuSemba/Spotlight   
+Renderings:   
+![Renderings](https://raw.githubusercontent.com/takusemba/spotlight/master/arts/customTarget.gif)  
+
+1. SpeedView  
+Dynamic Speedometer and Gauge for Android. amazing, powerful, and multi shape :zap:
+Project Address: https://github.com/anastr/SpeedView   
+Renderings:   
+![Renderings](https://raw.githubusercontent.com/anastr/SpeedView/master/images/AwesomeSpeedometer.gif)  
+
+
 ## 2. Common Util Libs  
 Include Dependency Injection, ImageCache, Network, Database ORM, Android common lib, Compatible low version, Multimedia, Event Bus, Sensor, Security, Plug-in, File, Others<a href="https://github.com/Trinea/android-open-project/edit/master/English%20Version/README.md#include" title="Back to directory" style="width:100%"><img src="http://farm4.staticflickr.com/3737/12167413134_edcff68e22_o.png" align="right"/></a>  
 #### 1. Dependency Injection  
@@ -902,7 +972,7 @@ Document: http://square.github.io/picasso/
 Image Cache, support multi caching algorithms  
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-Document: http://www.trinea.cn/android/android-imagecache/ 
+Document: https://www.trinea.cn/android/android-imagecache/ 
 
 1. Cube ImageLoader  
 Easy to use, high performance, used in some of the Apps in Alibaba Group.
@@ -999,7 +1069,7 @@ Document: http://commondatastorage.googleapis.com/io-2013/presentations/110%20-%
 Android common lib, include ImageCache, HttpCache, DropDownListView, DownloadManager, Utils and so on  
 Project Address: https://github.com/Trinea/AndroidCommon  
 Demo Apk: https://play.google.com/store/apps/details?id=cn.trinea.android.demo  
-Document: http://www.trinea.cn/android/android-common-lib/  
+Document: https://www.trinea.cn/android/android-common-lib/  
    
 1. shipfaster  
 Sample project demonstrating usage of Dagger + Otto + Robolectric + Retrofit + Picasso + OkHttp  
@@ -1663,4 +1733,3 @@ HomePage: http://www.inmite.eu/
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
